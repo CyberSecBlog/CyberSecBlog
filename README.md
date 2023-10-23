@@ -4,6 +4,9 @@
 
 <h2>✍🏾 Cybersecurity Blog:</h2>
 
+- <b>Linux System</b>
+  - [Navigating the Linux File System](https://github.com/joshmadakor1/Algorithms-Practice)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ReggieHamlet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
