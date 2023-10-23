@@ -5,7 +5,7 @@
 <h2>✍🏾 Cybersecurity Blog:</h2>
 
 - <b>Linux System</b>
-  - [Navigating the Linux File System](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Navigating the Linux File System](https://github.com/CyberSecBlog/Navigating-the-Linux-File-System-Tools-and-Techniques-for-IT-and-Security-Professionals)
 
 <h2> 🤳 Connect with me:</h2>
 
