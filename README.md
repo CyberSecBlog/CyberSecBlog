@@ -6,6 +6,7 @@
 
 - <b>Linux System</b>
   - [Navigating the Linux File System](https://github.com/CyberSecBlog/Navigating-the-Linux-File-System-Tools-and-Techniques-for-IT-and-Security-Professionals)
+  - [Unraveling the Mysteries of Linux Logs, Cron Jobs, Variables, and User Inputs](https://github.com/CyberSecBlog/Unraveling-the-Mysteries-of-Linux-Logs-Cron-Jobs-Variables-and-User-Inputs#unraveling-the-mysteries-of-linux-logs-cron-jobs-variables-and-user-inputs)
 
 <h2> 🤳 Connect with me:</h2>
 
