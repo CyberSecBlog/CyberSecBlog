@@ -1,31 +1,55 @@
-<h1>Hi, I'm Reggie! <a href="https://www.linkedin.com/in/reggie-hamlet/">Cybersecurity Professional</a>
+# Hello, I'm Reggie
+<a href="https://www.linkedin.com/in/reggie-hamlet"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Veteran turned IT pro, now diving into cybersecurity. Explore my projects aimed at protecting digital spaces.
 
-<h2>✍🏾 Cybersecurity Blog:</h2>
+## Objective
+Aiming to leverage my military background and IT experience in a cybersecurity position to strengthen organizational defenses.
 
-- <b>Linux System</b>
-  - [Navigating the Linux File System](https://github.com/CyberSecBlog/Navigating-the-Linux-File-System-Tools-and-Techniques-for-IT-and-Security-Professionals)
-  - [Unraveling the Mysteries of Linux Logs, Cron Jobs, Variables, and User Inputs](https://github.com/CyberSecBlog/Unraveling-the-Mysteries-of-Linux-Logs-Cron-Jobs-Variables-and-User-Inputs#unraveling-the-mysteries-of-linux-logs-cron-jobs-variables-and-user-inputs)
+## Skills
 
-<h2> 🤳 Connect with me:</h2>
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-[<img align="left" alt="ReggieHamlet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-[linkedin]: [https://www.linkedin.com/in/reggie-hamlet/
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-<!--
-**CyberSecBlog/CyberSecBlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Detection Lab
+- SOC Automation Project
